@@ -1,19 +1,4 @@
 utterance,intent
-"Comment informer mon employeur d'un arrêt de travail ?",covid---a-qui-transmettre-mon-arret-de-travail--
-"Justificatifs de congé maladie",covid---a-qui-transmettre-mon-arret-de-travail--
-"Comment donner mon arrêt maladie ?",covid---a-qui-transmettre-mon-arret-de-travail--
-"A qui dois je envoyer mon arret de travail ?",covid---a-qui-transmettre-mon-arret-de-travail--
-"à qui transmettre mon arrêt de travail",covid---a-qui-transmettre-mon-arret-de-travail--
-"j'ai besoin de transmettre l'arrêt de travail",covid---a-qui-transmettre-mon-arret-de-travail--
-"où envoyer mon arrêt de travail",covid---a-qui-transmettre-mon-arret-de-travail--
-"sur quelle adresse dois je envoyer les volets de l'arrêt maladie",covid---a-qui-transmettre-mon-arret-de-travail--
-"à qui envoyer l'arrêt maladie",covid---a-qui-transmettre-mon-arret-de-travail--
-"je dois le donner à qui l'arrêt maladie ?",covid---a-qui-transmettre-mon-arret-de-travail--
-"ou dois-je envoyer mon congé maladie ?",covid---a-qui-transmettre-mon-arret-de-travail--
-"je n'arrive pas à envoyer mon arrêt",covid---a-qui-transmettre-mon-arret-de-travail--
-"Il me faut l'envoyer à qui mon arrêt",covid---a-qui-transmettre-mon-arret-de-travail--
-"Je suis en congés maladie, comment envoyer les justificatifs ?",covid---a-qui-transmettre-mon-arret-de-travail--
-"je ne sais pas comment transmettre un arrêt de travail",covid---a-qui-transmettre-mon-arret-de-travail--
 "je n'ai pas pu prendre poser mes vacances, est ce que je vais les perdre",covid---comment-les-absences-sont-elles-gerees--
 "Je suis en confinement. Je ne pourrais sûrement pas poser tous mes congés . Est-il possible d’ouvrir dès maintenant un CET dans cette perspective ?",covid---comment-les-absences-sont-elles-gerees--
 "je peux ouvrir un CET ?",covid---comment-les-absences-sont-elles-gerees--
@@ -209,21 +194,6 @@ utterance,intent
 "Quels masques faut-il porter ?",covid---j-ai-une-question-sur-les-masques
 "Y a t il des préconisations pour porter un masque chirurgical ?",covid---j-ai-une-question-sur-les-masques
 "à qui dois je demander de nouveaux masques ?",covid---j-ai-une-question-sur-les-masques
-"A qui demande-t-on des plexiglass pour les bureaux ?",covid---j-ai-une-question-sur-les-plexiglass
-"Peut-on poser des plexi ?",covid---j-ai-une-question-sur-les-plexiglass
-"Protection en plexiglass pour le covid",covid---j-ai-une-question-sur-les-plexiglass
-"On demande à qui des plexi ?",covid---j-ai-une-question-sur-les-plexiglass
-"Il faut poser des plaque de protection sur les bureaux",covid---j-ai-une-question-sur-les-plexiglass
-"Installer du plexiglasse sur les bureaux",covid---j-ai-une-question-sur-les-plexiglass
-"Je ne sais pas à qui m'adresser pour un plexiglass",covid---j-ai-une-question-sur-les-plexiglass
-"ça sert à quoi le plexiglass sur le bureau ?",covid---j-ai-une-question-sur-les-plexiglass
-"Faire une demande pour un nouveau plexiglass",covid---j-ai-une-question-sur-les-plexiglass
-"Le plexiglasse n'a pas été installé sur mon bureau",covid---j-ai-une-question-sur-les-plexiglass
-"J'ai besoin d'une plaque de plexi pour me protéger du covid",covid---j-ai-une-question-sur-les-plexiglass
-"Quelqu'un peut m'aider pour poser mon plexi, je n'y arrive pas toute seule ?",covid---j-ai-une-question-sur-les-plexiglass
-"On a le droit à une plaque de plastique ?",covid---j-ai-une-question-sur-les-plexiglass
-"plexiglasse sur le bureau",covid---j-ai-une-question-sur-les-plexiglass
-"Je voudrais qu'on m'installe une protection sur mon bureau",covid---j-ai-une-question-sur-les-plexiglass
 "dois je m'isoler si j'ai des symptomes du covid ?",covid---j-ai-une-question-sur-les-symptomes
 "que faire si j'ai des sympômes du covid ?",covid---j-ai-une-question-sur-les-symptomes
 "Je crois que j'ai de la fièvre",covid---j-ai-une-question-sur-les-symptomes
